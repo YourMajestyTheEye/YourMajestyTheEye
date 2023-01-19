@@ -1,9 +1,4 @@
- <div>
-  <a href="https://github.com/YourMajestyTheEye">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourMajestyTheEye&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourMajestyTheEye&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=YourMajestyTheEye)](https://github.com/ryo-ma/github-profile-trophy)
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YourMajestyTheEye&" alt="YourMajestyTheEye" /></p>
 

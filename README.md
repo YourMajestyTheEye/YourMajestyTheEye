@@ -1,4 +1,6 @@
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YourMajestyTheEye&show_icons=true&locale=en" alt="YourMajestyTheEye" /></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!;I'm+Your+Majesty%2C+The+Eye!;Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YourMajestyTheEye&show_icons=true&locale=en" alt="YourMajestyTheEye" /></p>
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YourMajestyTheEye&" alt="YourMajestyTheEye" /></p>
  

@@ -6,8 +6,6 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=YourMajestyTheEye)](https://github.com/ryo-ma/github-profile-trophy)
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YourMajestyTheEye&" alt="YourMajestyTheEye" /></p>
-   
-![](https://komarev.com/ghpvc/?username=YourMajestyTheEye&label=MY+PROFILE+VIEWS)
 
    <div> 
   <a href = "mailto: theeye1234567@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,3 +15,5 @@
  </br>
 </br>
 </div>
+
+![](https://komarev.com/ghpvc/?username=YourMajestyTheEye&label=MY+PROFILE+VIEWS)

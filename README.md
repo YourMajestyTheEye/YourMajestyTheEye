@@ -2,6 +2,8 @@
   <a href="https://github.com/YourMajestyTheEye">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourMajestyTheEye&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=YourMajestyTheEye)](https://github.com/ryo-ma/github-profile-trophy)
    
 ![](https://komarev.com/ghpvc/?username=YourMajestyTheEye&label=MY+PROFILE+VIEWS)
 

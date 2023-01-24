@@ -16,6 +16,7 @@
   <a href="https://scratch.mit.edu/users/YourMajestyTheEye" target="_blank"><img src="https://img.shields.io/badge/Scratch-YourMajestyTheEye-orange"></a> 
   <a href="http://repl.it/@Your-MajestyMaj" target="_blank"><img src="https://img.shields.io/badge/Replit-Your%20Majesty%2C%20The%20Eye-important"></a>
   <a href="https://your-majesty-the-eye.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-Your%20Majesty%2C%20The%20Eye-blue" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCb7aNVtMCp2Gfle7TQboH1A" target="_blank"><img src="https://img.shields.io/badge/YouTube-Your%20Majesty%2C%20The%20Eye-red" target="_blank"></a>
  </br>
 </br>
 </div>

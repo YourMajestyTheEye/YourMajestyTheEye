@@ -2,7 +2,7 @@
 
 ![YourMajestyTheEye's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourMajestyTheEye&show_icons=true&theme=radical)
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YourMajestyTheEye&" alt="YourMajestyTheEye" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YourMajestyTheEye&theme=radical&hide_border=true)](https://git.io/streak-stats)
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=YourMajestyTheEye&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  

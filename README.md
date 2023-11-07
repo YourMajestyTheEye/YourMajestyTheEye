@@ -4,6 +4,6 @@
  
 ![](https://streak-stats.demolab.com?user=YourMajestyTheEye&theme=radical&hide_border=true)
  
-[![](https://github-profile-trophy.vercel.app/?username=YourMajestyTheEye&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=YourMajestyTheEye&theme=onedark)
 
 ![](https://komarev.com/ghpvc/?username=YourMajestyTheEye&label=MY+PROFILE+VIEWS)
